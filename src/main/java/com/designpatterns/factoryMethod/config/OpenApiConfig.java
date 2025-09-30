@@ -18,6 +18,6 @@ public class OpenApiConfig {
 								"Documentación de la API que implementa el patrón Factory Method para notificaciones.")
 						.license(new License().name("Apache 2.0").url("http://springdoc.org")))
 				.externalDocs(new ExternalDocumentation().description("Repositorio en GitHub")
-						.url("https://github.com/tu-usuario/tu-repo"));
+						.url("https://github.com/jhoan9/FactotyMethod"));
 	}
 }
